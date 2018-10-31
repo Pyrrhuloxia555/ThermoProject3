@@ -53,7 +53,7 @@ kb = 1.0
 
 sigma = 1
 T = 1.2*e/kb
-rho = 0.01/sigma**3
+rho = 0.85/sigma**3
 eta = 0.1
 
 npx, npy, npz = 5,5,5
